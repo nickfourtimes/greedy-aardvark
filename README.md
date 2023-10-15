@@ -1,15 +1,13 @@
-================================
-= GREEDY AARDVARK
-= by nick nick nick nick
-= nickfourtimes EMAILS gmail.com
-================================
+# Greedy Aardvark
+_by nick nick nick nick_  
+_nickfourtimes EMAILS gmail.com_
 
 Made for Ludum Dare #25
 "You Are the Villain"
 
-================================
+---
 
-A game inspired by the game the villain plays from 0:40 to 0:42 in [this video](https://www.youtube.com/watch?v=IFauNH7-U4g).
+A game inspired by the game the villain plays from 0:40 to 0:42 in [this video](https://www.youtube.com/watch?v=IFauNH7-U4g). Playable online [here](https://nicknicknicknick.itch.io/greedy-aardvark).
 
 A nutritious part of 73% of all Canadians' childhoods, The Raccoons were idiots.
 Their overlord was Cyril Sneer, but his tyranny was generally undone by his jerk son et al.
@@ -35,10 +33,9 @@ There are exactly TEN levels.
 
 I apologise for the tenth (it is potentially unwinnable).
 
-Note: you'll need to provide your own copy of Kevin Gillis' "Run With Us" at:
-`Assets/sounds/RunWithUs.ogg`. (referred to in the `_globalObject` in `scnGameOver`).
+Note: you'll need to provide your own copy of Kevin Gillis' "Run With Us" at `Assets/sounds/RunWithUs.ogg` (referred to in the `_globalObject` in `scnGameOver`).
 
-================================
+---
 
 Drink pairing: Wine from a box  
 Music pairing: [This should be obvious](https://www.youtube.com/watch?v=JLVe1NkQA78).
