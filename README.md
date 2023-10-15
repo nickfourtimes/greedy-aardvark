@@ -38,7 +38,7 @@ Note: you'll need to provide your own copy of Kevin Gillis' "Run With Us" at `As
 ---
 
 Drink pairing: Wine from a box  
-Music pairing: [This should be obvious](https://www.youtube.com/watch?v=JLVe1NkQA78).
+Music pairing: [This should be obvious](https://www.youtube.com/watch?v=h6Zf_lnulDA).
 
 
 *** RUN WITH US ***
